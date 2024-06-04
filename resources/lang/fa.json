@@ -1,0 +1,1022 @@
+{
+    "Home": "صفحه اصلی",
+    "About Us": "درباره ما",
+    "Pricing": "قیمت گذاری",
+    "Contact": "مخاطب",
+    "Sign In": "ورود",
+    "Sign Up": "ثبت نام",
+    "Dashboard": "داشبورد",
+    "Per Month": "هر ماه",
+    "Per Year": "در سال",
+    "Per": "مطابق",
+    "Main Features": "ویژگی های اصلی",
+    "Daily Usage Statistics": "آمار مصرف روزانه",
+    "Support (Email)": "پشتیبانی (ایمیل)",
+    "Choose": "انتخاب کنید",
+    "OR": "یا",
+    "Choose an files": "یک فایل را انتخاب کنید",
+    "Recommended : 160 x 160 pixels": "توصیه شده: 160 x 160 پیکسل",
+    "Note: Some fields are disabled. You can change the respective values directly from .env file.": "توجه: برخی از فیلدها غیرفعال هستند. ",
+    "How should I do?": "چطور باید انجام بدم؟",
+    "General Configuration Settings": "تنظیمات پیکربندی عمومی",
+    "Default Image Upload Limit": "حد پیش فرض آپلود تصویر",
+    "Website Configuration Settings": "تنظیمات پیکربندی وب سایت",
+    "Banner Image": "تصویر بنر",
+    "Website Logo": "لوگوی وب سایت",
+    "Recommended size : 1000 x 667": "اندازه پیشنهادی: 1000 x 667",
+    "Recommended size : 200 x 90": "اندازه پیشنهادی: 200*90",
+    "Recommended size : 200 x 200": "اندازه پیشنهادی: 200*200",
+    "Payment Methods Configuration Settings": "تنظیمات پیکربندی روش‌های پرداخت",
+    "Google Configuration Settings": "تنظیمات پیکربندی گوگل",
+    "If you did not get a reCAPTCHA (v2 Checkbox), create a": "اگر reCAPTCHA (باکس v2) را دریافت نکردید، a ایجاد کنید",
+    "Google OAuth Configuration Settings": "تنظیمات پیکربندی Google OAuth",
+    "Google Analytics Configuration Settings": "تنظیمات پیکربندی Google Analytics",
+    "AWS S3 Configuration Settings": "تنظیمات پیکربندی AWS S3",
+    "Access Key ID": "دسترسی به شناسه کلید",
+    "Access Key ID (Eg: AKI****************)": "شناسه کلید دسترسی (به عنوان مثال: AKI****************)",
+    "AWS_SECRET_ACCESS_KEY": "AWS_SECRET_ACCESS_KEY",
+    "Secret Access Key (Eg: RYaA********/E****************)": "کلید دسترسی مخفی (به عنوان مثال: RYaA********/E****************)",
+    "Access Region": "دسترسی به منطقه",
+    "Default Region (Eg: ap-east-1)": "منطقه پیش‌فرض (به عنوان مثال: ap-east-1)",
+    "Bucket": "سطل",
+    "Bucket (Eg: ap-east-1)": "سطل (به عنوان مثال: ap-east-1)",
+    "Use Path Style Endpoint": "از Path Style Endpoint استفاده کنید",
+    "True": "درست است، واقعی",
+    "False": "نادرست",
+    "This Month Income": "درآمد این ماه",
+    "Total Sales": "کل فروش",
+    "New Users": "کاربران جدید",
+    "Jan": "ژان",
+    "Feb": "فوریه",
+    "Mar": "مارس",
+    "Apr": "آوریل",
+    "May": "ممکن است",
+    "Jun": "ژوئن",
+    "Jul": "ژوئیه",
+    "Aug": "اوت",
+    "Sep": "سپتامبر",
+    "Oct": "اکتبر",
+    "Nov": "نوامبر",
+    "Dec": "دسامبر",
+    "Upload": "بارگذاری",
+    "Showing": "در حال نمایش",
+    "to": "به",
+    "of": "از",
+    "results": "نتایج",
+    "Previous": "قبلی",
+    "Next": "بعد",
+    "Copied!": "کپی شده!",
+    "Oops!": "اوه!",
+    "Something wrong.": "یه چیزی اشتباهه",
+    "Private Plan": "طرح خصوصی",
+    "This plan does not show on the customer page. Only the admin panel can assign this plan to the customer.": "این طرح در صفحه مشتری نمایش داده نمی شود. ",
+    "Plan Prices": "قیمت های طرح",
+    "For free: 0, forever: 9999": "به صورت رایگان: 0، برای همیشه: 9999",
+    "For forever: 9999": "برای همیشه: 9999",
+    "Upload Limit": "محدودیت آپلود",
+    "Change plan": "تغییر طرح",
+    "Bank Transfer": "حواله بانکی",
+    "Razorpay": "Razorpay",
+    "Stripe": "راه راه",
+    "Thank you very much for doing business with us. We look forward to working with you again!": "از اینکه با ما تجارت کردید بسیار سپاسگزاریم. ",
+    "Transaction Status Updated Successfully!": "وضعیت تراکنش با موفقیت به روز شد!",
+    "Success": "موفقیت",
+    "Contact Us": "با ما تماس بگیرید",
+    "Add New Page": "افزودن صفحه جدید",
+    "Custom Pages": "صفحات سفارشی",
+    "Static Pages": "صفحات استاتیک",
+    "Note : Static pages are doesn't have HTML editor. You can able to change the contents only.": "توجه: صفحات استاتیک ویرایشگر HTML ندارند. ",
+    "Verify": "تأیید کنید",
+    "Login Logs": "ورود به سیستم",
+    "Check Update": "به روز رسانی را بررسی کنید",
+    "Email service not available.": "سرویس ایمیل در دسترس نیست.",
+    "Upto": "تا",
+    "delete": "حذف",
+    "restore": "بازگرداندن",
+    "Goods and Service Tax": "مالیات کالا و خدمات",
+    "User": "کاربر",
+    "Profile Updated Successfully!": "نمایه با موفقیت به روز شد!",
+    "Profile Password Changed Successfully!": "رمز عبور نمایه با موفقیت تغییر کرد!",
+    "Confirm Password Mismatched.": "عدم تطابق رمز عبور را تأیید کنید.",
+    "FREE Plan activated!": "طرح رایگان فعال شد!",
+    "Your current plan is not available. Choose another plan.": "طرح فعلی شما در دسترس نیست. ",
+    "Image has been successfully uploaded.": "تصویر با موفقیت آپلود شد.",
+    "Image Not Found!": "تصویر پیدا نشد!",
+    "Mail Sent.": "ایمیل ارسال شد.",
+    "No Bank Transfer details found": "جزئیات حواله بانکی یافت نشد",
+    "Bank transfer transaction pending now. Once, Transaction is done, will be implemented your plan by the admin.": "تراکنش انتقال بانکی در حال حاضر در انتظار است. ",
+    "Please choose valid payment method!": "لطفا روش پرداخت معتبر را انتخاب کنید!",
+    "Something went wrong!": "مشکلی پیش آمد!",
+    "Payment failed, Something went wrong!": "پرداخت انجام نشد، مشکلی پیش آمد!",
+    "Plan activation success!": "موفقیت فعال سازی را برنامه ریزی کنید!",
+    "Payment method not supported!": "روش پرداخت پشتیبانی نمی شود!",
+    "Payment cancelled!": "پرداخت لغو شد!",
+    "This email address already registered.": "این آدرس ایمیل قبلا ثبت شده است.",
+    "Purchase code verified failed.": "کد خرید تأیید نشد.",
+    "Page Saved Successfully!": "صفحه با موفقیت ذخیره شد!",
+    "Website Content Updated Successfully!": "محتوای وب سایت با موفقیت به روز شد!",
+    "Page Updated Successfully!": "صفحه با موفقیت به روز شد!",
+    "Page Status Updated Successfully!": "وضعیت صفحه با موفقیت به روز شد!",
+    "Page Deleted Successfully!": "صفحه با موفقیت حذف شد!",
+    "New Payment Method Created Successfully!": "روش پرداخت جدید با موفقیت ایجاد شد!",
+    "Payment Gateway Details Updated Successfully!": "جزئیات درگاه پرداخت با موفقیت به روز شد!",
+    "Payment Method Status Updated Successfully!": "وضعیت روش پرداخت با موفقیت به روز شد!",
+    "New Plan Created Successfully!": "طرح جدید با موفقیت ایجاد شد!",
+    "Plan Details Updated Successfully!": "جزئیات طرح با موفقیت به روز شد!",
+    "Plan Status Updated Successfully!": "وضعیت طرح با موفقیت به روز شد!",
+    "Payment Settings Updated Successfully!": "تنظیمات پرداخت با موفقیت به روز شد!",
+    "Google Settings Updated Successfully!": "تنظیمات Google با موفقیت به روز شد!",
+    "You can change the respective values directly from .env file.": "می توانید مقادیر مربوطه را مستقیماً از فایل .env تغییر دهید.",
+    "Invoice Setting Updated Successfully!": "تنظیم فاکتور با موفقیت به روز شد!",
+    "Email Setting Updated Successfully!": "تنظیمات ایمیل با موفقیت به روز شد!",
+    "Application Cache Cleared Successfully!": "کش برنامه با موفقیت پاک شد!",
+    "Email configuration wrong.": "پیکربندی ایمیل اشتباه است.",
+    "Test mail send successfully.": "نامه آزمایشی با موفقیت ارسال شد.",
+    "General Settings Updated Successfully!": "تنظیمات عمومی با موفقیت به روز شد!",
+    "Website Settings Updated Successfully!": "تنظیمات وب سایت با موفقیت به روز شد!",
+    "Transaction updated successfully": "تراکنش با موفقیت به روز شد",
+    "New version installed successfully.": "نسخه جدید با موفقیت نصب شد.",
+    "Installation failed.": "نصب انجام نشد.",
+    "User Updated Successfully!": "کاربر با موفقیت به روز شد!",
+    "Plan changed successfully": "طرح با موفقیت تغییر کرد",
+    "User Status Updated Successfully!": "وضعیت کاربر با موفقیت به روز شد!",
+    "User deleted Successfully!": "کاربر با موفقیت حذف شد!",
+    "User account was not found!": "حساب کاربری پیدا نشد!",
+    "Intermediate": "حد واسط",
+    "Professional": "حرفه ای",
+    "Unlimited": "نامحدود",
+    "Get Started": "شروع کنید",
+    "Help": "کمک",
+    "FAQs": "سوالات متداول",
+    "Refund Policy": "سیاست بازپرداخت",
+    "Privacy Policy": "سیاست حفظ حریم خصوصی",
+    "Terms and Conditions": "شرایط و ضوابط",
+    "All rights reserved.": "تمامی حقوق محفوظ است.",
+    "per month": "هر ماه",
+    "Let’s stay connected": "بیایید متصل بمانیم",
+    "It's never been easier to get in touch with Flex. Call us, use our live chat widget or email and we'll get back to you as soon as possible!": "برقراری ارتباط با Flex هرگز آسانتر نبوده است. ",
+    "+91 987-654-3210": "91 987-654-3210",
+    "Office": "دفتر",
+    "1686, Geraldine Lane": "1686، جرالدین لین",
+    "New York, NY 10013": "نیویورک، نیویورک 10013",
+    "Socials": "اجتماعی",
+    "Name": "نام",
+    "Message": "پیام",
+    "Send": "ارسال",
+    "David": "دیوید",
+    "dev@domain.com": "dev@domain.com",
+    "Your message": "پیغام تو",
+    "Frequently Asked Questions": "سوالات متداول",
+    "Creator is the only saas business platform that lets you run your business on one platform, seamlessly across all digital channels.": "Creator تنها پلتفرم تجاری saas است که به شما امکان می دهد کسب و کار خود را بر روی یک پلتفرم، به طور یکپارچه در تمام کانال های دیجیتال اجرا کنید.",
+    "What shipping options do you have?": "چه گزینه های حمل و نقل دارید؟",
+    "For USA domestic orders we offer FedEx and USPS shipping. Contact us via email to learn more.": "برای سفارشات داخلی ایالات متحده، ما ارسال FedEx و USPS را ارائه می دهیم. ",
+    "What payment methods do you accept?": "چه روش های پرداختی را می پذیرید؟",
+    "Any method of payments acceptable by you. For example: We accept MasterCard, Visa.": "هر روش پرداخت قابل قبول توسط شما. ",
+    "How long does it take to ship my order?": "چقدر طول می کشد تا سفارش من ارسال شود؟",
+    "Orders are usually shipped within 1-2 business days after placing the order.": "سفارشات معمولاً 1 تا 2 روز کاری پس از ثبت سفارش ارسال می شوند.",
+    "Have any additional questions?": "سوال اضافی دارید؟",
+    "Creator is a Small SaaS Business. Creator isn’t a traditional company.": "Creator یک کسب و کار کوچک SaaS است. ",
+    "Updated on": "به روز شد",
+    "Terms & Conditions": "مقررات",
+    "Sign in to your account": "به حساب خود وارد شوید",
+    "Start your demo version": "نسخه دمو خود را شروع کنید",
+    "Password": "کلمه عبور",
+    "Forgot your password?": "رمز عبور خود را فراموش کرده اید؟",
+    "Show / Hide Password": "نمایش / پنهان کردن رمز عبور",
+    "Sign in with Google": "با گوگل وارد شوید",
+    "Don’t have an account?": "حساب کاربری ندارید؟",
+    "Reset Password": "بازنشانی رمز عبور",
+    "Send Password Reset Link": "ارسال لینک بازیابی رمز عبور",
+    "Go back to Homepage": "به صفحه اصلی برگردید",
+    "Join our community": "به انجمن ما بپیوندید",
+    "Start your journey with our product": "سفر خود را با محصول ما آغاز کنید",
+    "Patryk": "پاتریک",
+    "Password*": "کلمه عبور*",
+    "Confirm Password*": "تایید رمز عبور*",
+    "Already have an account?": "از قبل حساب کاربری دارید؟",
+    "Verify Your Email Address": "آدرس ایمیل خود را تأیید کنید",
+    "A fresh verification link has been sent to your email address.": "یک پیوند تأیید جدید به آدرس ایمیل شما ارسال شده است.",
+    "Before proceeding, please check your email for a verification link.": "قبل از ادامه، لطفاً ایمیل خود را برای پیوند تأیید بررسی کنید.",
+    "If you did not receive the email": "اگر ایمیل را دریافت نکردید",
+    "click here to request another": "برای درخواست دیگری اینجا را کلیک کنید",
+    "Confirm Password": "رمز عبور را تایید کنید",
+    "Please confirm your password before continuing.": "لطفاً قبل از ادامه رمز عبور خود را تأیید کنید.",
+    "Go back to Login": "به Login برگردید",
+    "Email*": "پست الکترونیک*",
+    "Page not found": "صفحه یافت نشد",
+    "Something went wrong, so this page is broken.": "مشکلی پیش آمده است، بنابراین این صفحه خراب است.",
+    "Error 404": "خطای 404",
+    "Try Again": "دوباره امتحان کنید",
+    "Overview": "بررسی اجمالی",
+    "Overall Income": "درآمد کلی",
+    "Today Income": "درآمد امروز",
+    "Overall Users": "کاربران کلی",
+    "Today Users": "کاربران امروزی",
+    "Available Plans": "طرح های موجود",
+    "Supported Payment Gateways": "درگاه های پرداخت پشتیبانی شده",
+    "Copyright": "کپی رایت",
+    "Plans": "طرح ها",
+    "All Plans": "همه طرح ها",
+    "Add Plan": "طرح اضافه کنید",
+    "Users": "کاربران",
+    "Payment Methods": "روش های پرداخت",
+    "Transactions": "معاملات",
+    "Offline Transactions": "معاملات آفلاین",
+    "Pages": "صفحات",
+    "Settings": "تنظیمات",
+    "General Settings": "تنظیمات عمومی",
+    "Translations": "ترجمه ها",
+    "Invoice & Tax": "صورتحساب",
+    "Logs": "سیاههها",
+    "Clear cache": "پاک کردن حافظه پنهان",
+    "Administrator": "مدیر",
+    "Profile & account": "مشخصات",
+    "Logout": "خروج",
+    "Change Password": "رمز عبور را تغییر دهید",
+    "New Password": "رمز عبور جدید",
+    "Account Details": "جزئیات حساب",
+    "Profile Picture": "عکس پروفایل",
+    "Update": "به روز رسانی",
+    "My Account": "حساب من",
+    "Not Available": "در دسترس نیست",
+    "Edit": "ویرایش کنید",
+    "S.No": "شماره S",
+    "IP Address": "آدرس آی پی",
+    "Browser": "مرورگر",
+    "Login At": "ورود در",
+    "Login Successful": "ورود با موفقیت",
+    "Logout at": "خروج در",
+    "Cleared by user": "توسط کاربر پاک شد",
+    "YES": "آره",
+    "NO": "نه",
+    "Add Page": "اضافه کردن صفحه",
+    "Title": "عنوان",
+    "Slug": "حلزون حرکت کردن",
+    "Body": "بدن",
+    "Meta Keywords": "فراکلیدواژه ها",
+    "Meta Description": "توضیحات متا",
+    "Save": "صرفه جویی",
+    "Edit Page": "ویرایش صفحه",
+    "Page": "صفحه",
+    "Status": "وضعیت",
+    "Actions": "اقدامات",
+    "Inactive": "غیر فعال",
+    "Active": "فعال",
+    "Activate": "فعال کنید",
+    "Deactivate": "از کار انداختن",
+    "Are you sure?": "مطمئنی؟",
+    "If you proceed, you will active/deactivate this page.": "اگر ادامه دهید، این صفحه را فعال/غیرفعال خواهید کرد.",
+    "Cancel": "لغو کنید",
+    "Yes, proceed": "بله، ادامه دهید",
+    "Add Payment Method": "افزودن روش پرداخت",
+    "Payment Method Details": "جزئیات روش پرداخت",
+    "Payment Method Name": "نام روش پرداخت",
+    "Display Name": "نام نمایشی",
+    "Payment Settings": "تنظیمات پرداخت",
+    "Client ID": "شناسه مشتری",
+    "Secret Key": "کلید مخفی",
+    "Set 0 to disable it": "0 را برای غیرفعال کردن آن تنظیم کنید",
+    "Add": "اضافه کردن",
+    "Edit Payment Method": "ویرایش روش پرداخت",
+    "Installed Status": "وضعیت نصب شده",
+    "Payment Method": "روش پرداخت",
+    "Installed": "نصب شده است",
+    "Not Installed Yet": "هنوز نصب نشده است",
+    "NO PAYMENT METHODS FOUND": "هیچ روش پرداختی یافت نشد",
+    "If you proceed, you will active/deactivate this payment method data.": "اگر ادامه دهید، داده‌های این روش پرداخت را فعال/غیرفعال می‌کنید.",
+    "Plan Details": "جزئیات طرح",
+    "Plan Name": "نام طرح",
+    "Description": "شرح",
+    "Recommended": "توصیه شده",
+    "Price": "قیمت",
+    "Validity": "اعتبار",
+    "Enter no. of days": "شماره را وارد کنید ",
+    "For forever, enter 9999": "برای همیشه، 9999 را وارد کنید",
+    "Plan Features": "ویژگی های طرح",
+    "For unlimited, enter 999": "برای نامحدود، 999 را وارد کنید",
+    "Edit Plan": "ویرایش طرح",
+    "Plan Price": "قیمت طرح",
+    "Plan Validity": "اعتبار طرح",
+    "Forever": "برای همیشه",
+    "Monthly": "ماهانه",
+    "Yearly": "سالانه",
+    "Days": "روزها",
+    "Discontinued": "متوقف شد",
+    "If you proceed, you will active/deactivate this plan data.": "اگر ادامه دهید، داده‌های این طرح را فعال/غیرفعال می‌کنید.",
+    "Application Type": "نوع برنامه",
+    "Both": "هر دو",
+    "Timezone": "منطقه زمانی",
+    "Currency": "واحد پول",
+    "Default Plan Term Settings": "تنظیمات مدت طرح پیش فرض",
+    "Default Plan Term": "مدت طرح پیش فرض",
+    "Cookie Consent Settings": "تنظیمات رضایت کوکی",
+    "Enable": "فعال کردن",
+    "Disable": "غیر فعال کردن",
+    "Image Upload Limit": "محدودیت آپلود تصویر",
+    "Size": "اندازه",
+    "Offline (Bank Transfer) Settings": "تنظیمات آفلاین (حواله بانکی).",
+    "Offline (Bank Transfer) Details": "جزئیات آفلاین (حواله بانکی).",
+    "Google reCAPTCHA Settings": "تنظیمات Google reCAPTCHA",
+    "reCAPTCHA Enable": "reCAPTCHA فعال کنید",
+    "reCAPTCHA Site Key": "کلید سایت reCAPTCHA",
+    "If you did not get a reCAPTCHA, create a": "اگر reCAPTCHA دریافت نکردید، a ایجاد کنید",
+    "reCAPTCHA": "reCAPTCHA",
+    "reCAPTCHA Secret Key": "کلید مخفی reCAPTCHA",
+    "Google Settings": "تنظیمات گوگل",
+    "Google Analytics ID": "شناسه گوگل آنالیتیکس",
+    "If you did not get a google analytics id, create a": "اگر شناسه google analytics دریافت نکردید، a ایجاد کنید",
+    "new analytics id.": "شناسه جدید تجزیه و تحلیل",
+    "Google OAuth Settings": "تنظیمات Google OAuth",
+    "Google Auth Enable": "Google Auth فعال کنید",
+    "Google Client ID": "شناسه مشتری Google",
+    "Google Client Secret": "راز مشتری گوگل",
+    "Google Redirect": "تغییر مسیر گوگل",
+    "If you did not get a google OAuth Client ID & Secret Key, follow a": "اگر شناسه مشتری google OAuth دریافت نکردید",
+    " steps": " مراحل",
+    "Paypal": "پی پال",
+    "Paypal Settings": "تنظیمات پی پال",
+    "Mode": "حالت",
+    "Sandbox": "جعبه شنی",
+    "Live": "زنده",
+    "Client Key": "کلید مشتری",
+    "Secret": "راز",
+    "Razorpay Settings": "تنظیمات Razorpay",
+    "Stripe Settings": "تنظیمات راه راه",
+    "Publishable Key": "کلید قابل انتشار",
+    "Site Settings": "تنظیمات سایت",
+    "Theme Colors": "رنگ های تم",
+    "Home Banner Image": "تصویر بنر خانه",
+    "Site Logo": "لوگوی سایت",
+    "Favicon": "فاویکون",
+    "App Name": "نام برنامه",
+    "Site Name": "نام سایت",
+    "SEO Meta Description": "توضیحات متا SEO",
+    "SEO Keywords": "کلمات کلیدی SEO",
+    "SEO Keywords (Keyword 1, Keyword 2)": "کلمات کلیدی SEO (کلمه کلیدی 1، کلمه کلیدی 2)",
+    "Share Content Settings": "تنظیمات محتوا را به اشتراک بگذارید",
+    "Share Content": "اشتراک گذاری محتوا",
+    "Short Codes :": "کدهای کوتاه:",
+    "Email Configuration Settings": "تنظیمات پیکربندی ایمیل",
+    "Sender Name": "نام فرستنده",
+    "Sender Email Address": "آدرس ایمیل فرستنده",
+    "Mailer Driver": "درایور میلر",
+    "Mailer Port": "بندر میلر",
+    "Mailer Encryption": "رمزگذاری پست الکترونیکی",
+    "Mailer Username": "نام کاربری میلر",
+    "Mailer Password": "رمز عبور میلر",
+    "Test Mail": "نامه آزمایشی",
+    "Tawk Chat Settings": "تنظیمات چت Tawk",
+    "Tawk Chat URL (s1.src)": "URL چت Tawk (s1.src)",
+    "Tawk Chat Key": "کلید چت Tawk",
+    "Note: Some fields are disabled due to security reasons. You can change the respective values directly from .env file": "توجه: برخی از فیلدها به دلایل امنیتی غیرفعال هستند. ",
+    "Tax Settings": "تنظیمات مالیاتی",
+    "These details will be used for the invoice.": "این جزئیات برای فاکتور استفاده خواهد شد.",
+    "Invoice Number Prefix": "پیش شماره شماره فاکتور",
+    "Address": "نشانی",
+    "City": "شهر",
+    "State/Province": "ایالت/استان",
+    "ZIP Code": "کد پستی",
+    "Country": "کشور",
+    "Tax Name": "نام مالیاتی",
+    "Tax ID": "شناسه مالیاتی",
+    "Tax Value": "ارزش مالیاتی",
+    "Invoice Footer": "پاورقی فاکتور",
+    "Invoice Email Settings": "تنظیمات ایمیل فاکتور",
+    "Email Heading": "عنوان ایمیل",
+    "Email Footer": "پاورقی ایمیل",
+    "Transaction Date": "تاریخ معامله",
+    "Payment Trans ID": "شناسه ترانس پرداخت",
+    "Customer Name": "نام مشتری",
+    "Gateway Name": "نام دروازه",
+    "Amount": "میزان",
+    "Paid": "پرداخت شده",
+    "Failed": "ناموفق",
+    "Pending": "انتظار",
+    "Invoice": "صورتحساب",
+    "No Transactions Found.": "هیچ معامله ای یافت نشد.",
+    "If you proceed with this transaction, you will have payment status success this plan.": "اگر این تراکنش را ادامه دهید، وضعیت پرداخت موفقیت آمیز این طرح است.",
+    "Download": "دانلود",
+    "Print": "چاپ",
+    "Tax Number:": "شماره مالیاتی:",
+    "INVOICE DATE": "تاریخ فاکتور",
+    "INVOICE NO": "شماره فاکتور",
+    "Extended": "تمدید شده",
+    "Via": "از طريق",
+    "Subtotal": "جمع فرعی",
+    "Rate": "نرخ",
+    "Total": "جمع",
+    "Change Plan in User": "تغییر طرح در کاربر",
+    "Change Plan": "تغییر طرح",
+    "User ID": "شناسه کاربر",
+    "Choose a plan": "یک طرح انتخاب کنید",
+    "Upgrade": "ارتقا دهید",
+    "Edit User": "ویرایش کاربر",
+    "User Details": "مشخصات کاربر",
+    "Full Name": "نام و نام خانوادگی",
+    "Current Plan": "نقشه جاری",
+    "Joined": "پیوست",
+    "No Plan": "بدون طرح",
+    "Delete": "حذف",
+    "No Users Found.": "کاربری پیدا نشد.",
+    "If you proceed, you will active/deactivate this user data.": "اگر ادامه دهید، این اطلاعات کاربر را فعال/غیرفعال خواهید کرد.",
+    "WARNING!": "هشدار!",
+    "This action will remove user account and user data. It is not revertable action.": "این عمل حساب کاربری و داده های کاربر را حذف می کند. ",
+    "View User": "مشاهده کاربر",
+    "Customer": "مشتری",
+    "Login via Admin": "از طریق Admin وارد شوید",
+    "Type": "تایپ کنید",
+    "Created on": "ایجاد شده در",
+    "Activated": "فعال شد",
+    "Deactivated": "غیرفعال شد",
+    "Are you sure login into the user?": "آیا مطمئن هستید که وارد کاربر می شوید؟",
+    "Note : If you proceed, you will lose your admin session.": "توجه: اگر ادامه دهید، جلسه مدیریت خود را از دست خواهید داد.",
+    "All Cards": "همه کارت ها",
+    "Media": "رسانه ها",
+    "Addtional Tools": "ابزارهای اضافی",
+    "Whois Lookup": "جستجوی Whois",
+    "DNS Lookup": "جستجوی DNS",
+    "IP Lookup": "جستجوی IP",
+    "Your email verification is not completed. Please check your email and activate your account. If you did not receive an email, please": "تایید ایمیل شما تکمیل نشده است. ",
+    "click here.": "اینجا کلیک کنید.",
+    "DNS lookup": "جستجوی DNS",
+    "Domain": "دامنه",
+    "Search": "جستجو کردن",
+    "Reset": "بازنشانی کنید",
+    "Result": "نتیجه",
+    "No results found.": "نتیجه ای پیدا نشد.",
+    "A": "آ",
+    "AAAA": "AAAA",
+    "CNAME": "CNAME",
+    "MX": "MX",
+    "TXT": "TXT",
+    "NS": "NS",
+    "Hostname": "نام میزبان",
+    "IP": "IP",
+    "TTL": "TTL",
+    "IPv6": "IPv6",
+    "Target": "هدف",
+    "Priority": "اولویت",
+    "Entries": "ورودی های",
+    "IP lookup": "جستجوی IP",
+    "unknown": "ناشناخته",
+    "WHOIS lookup": "جستجوی WHOIS",
+    "Registrar": "ثبت کننده",
+    "Registrant": "ثبت نام کننده",
+    "Created date": "تاریخ ایجاد",
+    "Updated date": "تاریخ به روز رسانی",
+    "Expiration date": "تاریخ انقضا",
+    "Name servers": "سرورهای نام",
+    "States": "ایالت ها",
+    "WHOIS server": "سرور WHOIS",
+    "Text Content": "محتوای متنی",
+    "Width": "عرض",
+    "Height": "ارتفاع",
+    "Create": "ايجاد كردن",
+    "OPTIONS": "گزینه ها",
+    "No download found": "دانلودی پیدا نشد",
+    "If you proceed, you will": "اگر ادامه دهید، این کار را خواهید کرد",
+    "Billing Details": "جزئیات صورتحساب",
+    "Billing Address": "آدرس قبض",
+    "Billing City": "شهر صورتحساب",
+    "Billing State/Province": "ایالت/استان صورتحساب",
+    "Billing Zip Code": "کد پستی صورتحساب",
+    "Billing Country": "کشور صدور صورت حساب",
+    "Tax Number": "شماره مالیاتی",
+    "Personal": "شخصی",
+    "Business": "کسب و کار",
+    "Choose Country": "کشور را انتخاب کن",
+    "Checkout": "وارسی",
+    "No Plan Found": "طرحی پیدا نشد",
+    "Back": "بازگشت",
+    "Upgrade/Renewal Plan": "طرح ارتقا/تجدید",
+    "Total Payable": "جمع پرداختی",
+    "Payment method": "روش پرداخت",
+    "Continue for payment": "برای پرداخت ادامه دهید",
+    "Offline Checkout": "تسویه حساب آفلاین",
+    "Note: Do Page Refresh or back button.": "توجه: دکمه Refresh یا Back را انجام دهید.",
+    "Plan Name : ": "نام طرح: ",
+    "Transaction I": "معامله I",
+    "Verify Payment": "تأیید پرداخت",
+    "Bank Details": "اطلاعات دقیق بانکی",
+    "Pay Now": "الان پرداخت کن",
+    "Please enter your credit card information": "لطفا اطلاعات کارت اعتباری خود را وارد کنید",
+    "Cancel payment and back to home": "لغو پرداخت و بازگشت به خانه",
+    "Copy": "کپی 🀄",
+    "Try adjusting your add to find what you are looking for.": "سعی کنید افزودنی خود را تنظیم کنید تا آنچه را که به دنبال آن هستید بیابید.",
+    "If you proceed, you will enabled/disabled this card.": "اگر ادامه دهید، این کارت را فعال/غیرفعال خواهید کرد.",
+    "Do you want to remove this file?": "آیا می خواهید این فایل را حذف کنید؟",
+    "My plan": "برنامه من",
+    "FREE PLAN": "طرح رایگان",
+    "Remaining Days": "روزهای باقی مانده",
+    "Plan Expired!": "طرح منقضی شد!",
+    "Renew": "تمدید کنید",
+    "No active plans!": "بدون برنامه فعال!",
+    "Choose plan": "طرح را انتخاب کنید",
+    "FREE": "رایگان",
+    "If you proceed, it will renew/upgrade your plan.": "اگر ادامه دهید، طرح شما را تمدید/ارتقا خواهد داد.",
+    "UNABLE TO DOWNGRADE": "دانگرید کردن امکان پذیر نیست",
+    "Because you are already activated the 'Free' plan.": "زیرا شما قبلاً طرح \"رایگان\" را فعال کرده اید.",
+    "Links": "پیوندها",
+    "Languages": "زبان ها",
+    "Trans ID": "شناسه ترانس",
+    "Payment ID": "شناسه پرداخت",
+    "Payment Mode": "حالت پرداخت",
+    "Show details": "نمایش جزئیات",
+    "Generate": "تولید می کنند",
+    "Content": "محتوا",
+    "Primary color": "رنگ اولیه",
+    "Secondary color": "رنگ ثانویه",
+    "Value": "ارزش",
+    "PRINT": "چاپ",
+    "Eg: domain.com": "به عنوان مثال: domain.com",
+    "Total Sales Overview": "نمای کلی فروش",
+    "New Users Overview": "بررسی اجمالی کاربران جدید",
+    "Domain DNS details": "جزئیات DNS دامنه",
+    "Domain name details": "جزئیات نام دامنه",
+    "No domain details found.": "هیچ جزئیات دامنه یافت نشد.",
+    "Domain Name": "نام دامنه",
+    "State": "حالت",
+    "WHOIS server details": "جزئیات سرور WHOIS",
+    "Registrant Name": "نام ثبت نام کننده",
+    "Registrar Name": "نام ثبت کننده",
+    "License": "مجوز",
+    "Envato Purchase Code": "کد خرید Envato",
+    "Where is my purchase code?": "کد خرید من کجاست؟",
+    "Check": "بررسی",
+    "Something went wrong! Please contact author support team.": "مشکلی پیش آمد! ",
+    "Sorry": "متاسف",
+    "Features": "امکانات",
+    "Used": "استفاده شده",
+    "Show": "نمایش دهید",
+    "Choose Plan": "طرح را انتخاب کنید",
+    "Google AdSense Configuration Settings": "تنظیمات پیکربندی Google AdSense",
+    "Google AdSense code": "کد گوگل ادسنس",
+    "Note": "توجه داشته باشید",
+    "Enter your AdSense code for enable AdSense": "کد AdSense خود را برای فعال کردن AdSense وارد کنید",
+    "Type DISABLE for disable AdSense": "برای غیرفعال کردن AdSense، DISABLE را تایپ کنید",
+    "If you did not get a google adsense code, create a": "اگر کد ادسنس گوگل را دریافت نکردید، یک کد ایجاد کنید",
+    "new adsense code.": "کد جدید ادسنس",
+    "Request Parameters": "پارامترهای درخواست",
+    "Response": "واکنش",
+    "Required": "ضروری",
+    "Optional": "اختیاری",
+    "Check Status": "وضعیت را بررسی کنید",
+    "Admin": "مدیر",
+    "Keywords": "کلید واژه ها",
+    "Disabled": "معلول",
+    "Enabled": "فعال شد",
+    "Set 31 for 'Month', Set 365 for 'Year', Set 9999 for 'Forever'": "مجموعه 31 برای \"ماه\"، مجموعه 365 برای \"سال\"، مجموعه 9999 برای \"برای همیشه\"",
+    "Templates": "قالب ها",
+    "Words Per Month": "کلمات در ماه",
+    "Images Per Month": "تصاویر در ماه",
+    "Additional Tools": "ابزارهای اضافی",
+    "AI Tools Configuration Settings": "تنظیمات پیکربندی ابزارهای هوش مصنوعی",
+    "Open AI Model": "مدل AI را باز کنید",
+    "GPT 3.5 Turbo": "GPT 3.5 توربو",
+    "Text Davinci 003": "داوینچی 003 را پیامک کنید",
+    "Text Davinci 002": "داوینچی 002 را پیامک کنید",
+    "Text Ada 001": "به Ada 001 پیامک دهید",
+    "To find out which model is right for you with OpenAI pricing,": "برای اینکه بدانید کدام مدل با قیمت گذاری OpenAI برای شما مناسب است،",
+    "click here": "اینجا کلیک کنید",
+    "OpenAI API Key": "کلید OpenAI API",
+    "OpenAI API Key (Eg: sk-****************)": "کلید OpenAI API (به عنوان مثال: sk-****************)",
+    "If you did not get a OpenAI API Key, create a": "اگر کلید OpenAI API دریافت نکردید، یک را ایجاد کنید",
+    "new API Key.": "کلید API جدید",
+    "Tiny Cloud (Text Editor) Configuration Settings": "تنظیمات پیکربندی Tiny Cloud (ویرایشگر متن).",
+    "Tiny Cloud API Key": "کلید API ابر کوچک",
+    "Tiny Cloud API Key (Eg: ytf5**************************)": "کلید Tiny Cloud API (به عنوان مثال: ytf5****************************)",
+    "If you did not get a Tiny Cloud API Key, create a": "اگر کلید Tiny Cloud API را دریافت نکردید، یک کلید ایجاد کنید",
+    "Note: You can change the respective values directly from .env file.": "توجه: می توانید مقادیر مربوطه را مستقیماً از فایل .env تغییر دهید.",
+    "Latest Generated AI Contents": "آخرین مطالب تولید شده هوش مصنوعی",
+    "Allocated Words": "کلمات اختصاص داده شده",
+    "Last Updated on:": "آخرین بروز رسانی در تاریخ:",
+    "More contents please login": "مطالب بیشتر لطفا وارد شوید",
+    "No contents found": "هیچ مطلبی یافت نشد",
+    "Latest Generated AI Images": "آخرین تصاویر تولید شده هوش مصنوعی",
+    "Image Count": "تعداد تصاویر",
+    "Generated on:": "تولید شده در:",
+    "More images please login": "تصاویر بیشتر لطفا وارد شوید",
+    "No images found": "هیچ تصویری یافت نشد",
+    "Rich Editor": "ویرایشگر غنی",
+    "Multiple AI Languages": "چندین زبان هوش مصنوعی",
+    "AI Images": "تصاویر هوش مصنوعی",
+    "AI Words": "کلمات هوش مصنوعی",
+    "Recently Generated Images": "تصاویری که به تازگی تولید شده اند",
+    "New Image": "عکس جدید",
+    "View": "چشم انداز",
+    "Permanent Delete": "حذف دائمی",
+    "Generated at": "تولید شده در",
+    "this image.": "این تصویر.",
+    "Image you want to create?": "تصویری که می خواهید ایجاد کنید؟",
+    "No. Of Results": "تعداد نتایج",
+    "Results": "نتایج",
+    "Please Wait...": "لطفا صبر کنید...",
+    "View Content": "مشاهده محتوا",
+    "Export Docs": "صادر کردن اسناد",
+    "this content.": "این محتوا",
+    "Recently Generated Contents": "مطالبی که اخیراً تولید شده است",
+    "Last Updated on": "آخرین بروز رسانی در تاریخ",
+    "Edit Content": "ویرایش محتوا",
+    "Note: If you want to change the content format, first change the content and save. then hit 'EXPORT' button.": "توجه: اگر می خواهید قالب محتوا را تغییر دهید، ابتدا محتوا را تغییر دهید و ذخیره کنید. ",
+    "Language": "زبان",
+    "Company/Brand Name": "نام شرکت/نام تجاری",
+    "Writer": "نویسنده",
+    "What Products/Services Do You Offer": "چه محصولات/خدماتی را ارائه می دهید",
+    "Eg: Help generating ideas, organizing your thoughts, or crafting a compelling piece of writing.": "به عنوان مثال: به تولید ایده ها، سازماندهی افکار خود یا ایجاد یک نوشته جذاب کمک کنید.",
+    "Randomness and Creativity": "تصادفی و خلاقیت",
+    "Low": "کم",
+    "Medium": "متوسط",
+    "High": "بالا",
+    "Max Word Length": "حداکثر طول کلمه",
+    "The best-known marketing model for tracing the customer journey.": "شناخته شده ترین مدل بازاریابی برای ردیابی سفر مشتری.",
+    "Question": "سوال",
+    "Eg: What is AI?": "به عنوان مثال: هوش مصنوعی چیست؟",
+    "Title of your blog post": "عنوان پست وبلاگ شما",
+    "Eg: Latest technology": "به عنوان مثال: آخرین تکنولوژی",
+    "Maintaining a blog is a proven way to drive traffic to your website through SEO.": "حفظ یک وبلاگ یک راه اثبات شده برای هدایت ترافیک به وب سایت شما از طریق سئو است.",
+    "About your blog post": "درباره پست وبلاگ شما",
+    "Eg: Tell me about the latest technology": "به عنوان مثال: در مورد آخرین فناوری به من بگویید",
+    "What type of blog post do you want to create?": "چه نوع پست وبلاگی می خواهید ایجاد کنید؟",
+    "What keywords are you using for this article?": "از چه کلمات کلیدی برای این مقاله استفاده می کنید؟",
+    "Eg: Horror, story, novel": "به عنوان مثال: ترسناک، داستان، رمان",
+    "If using more than one keyword use ',' (comma).": "در صورت استفاده از بیش از یک کلمه کلیدی، از «،» (کاما) استفاده کنید.",
+    "Description of your event": "شرح رویداد شما",
+    "Eg: Google I/O is an annual developer conference held by Google in Mountain View, California.": "به عنوان مثال: Google I/O یک کنفرانس سالانه توسعه دهندگان است که توسط Google در Mountain View، کالیفرنیا برگزار می شود.",
+    "Event Name": "نام رخداد",
+    "Eg: Google I/O 2023": "به عنوان مثال: Google I/O 2023",
+    "Eg: AI Tools": "به عنوان مثال: ابزارهای هوش مصنوعی",
+    "Eg: We are a development platform": "به عنوان مثال: ما یک پلت فرم توسعه هستیم",
+    "New": "جدید",
+    "Tool that represents the most important information from original content.": "ابزاری که مهمترین اطلاعات را از محتوای اصلی نشان می دهد.",
+    "That enables you to create beautiful and effective product descriptions that sell.": "این به شما امکان می دهد تا توضیحات زیبا و موثری را برای محصول ایجاد کنید که فروش دارد.",
+    "Generate a short, brandable business / startup name using artificial intelligence": "با استفاده از هوش مصنوعی، نام کسب و کار/استارت آپ کوتاه و قابل برند ایجاد کنید",
+    "Write personalized email to welcome the customer for oining your service / product.": "برای خوشامدگویی به مشتری برای ارائه خدمات / محصول خود، ایمیل شخصی بنویسید.",
+    "This is a premium tool. If you want to access this tool, you need a premium plan.": "این یک ابزار برتر است. ",
+    "Premium Tool": "ابزار حق بیمه",
+    "Go to plans": "برو سراغ طرح ها",
+    "Description of Paragraph": "شرح پاراگراف",
+    "Eg: Best tourist destination india or UAE?": "به عنوان مثال: بهترین مقصد گردشگری هند یا امارات؟",
+    "Keywords you use in the paragraph": "کلمات کلیدی که در پاراگراف استفاده می کنید",
+    "Eg: india, uae, tourist destination": "به عنوان مثال: هند، امارات متحده عربی، مقصد گردشگری",
+    "Write an engaging presentation": "یک ارائه جذاب بنویسید",
+    "Topic": "موضوع",
+    "Eg: Write your presentation topic": "به عنوان مثال: موضوع ارائه خود را بنویسید",
+    "Keywords of your product": "کلمات کلیدی محصول شما",
+    "Eg: dell, wireless, mouse": "به عنوان مثال: دل، بی سیم، ماوس",
+    "Product Name Details": "مشخصات نام محصول",
+    "Eg: Dell wireless mouse": "به عنوان مثال: ماوس بی سیم Dell",
+    "That enables you to create beautiful and effective product descriptions that sell": "این به شما امکان می دهد تا توضیحات زیبا و موثری را برای محصول ایجاد کنید که فروش دارد",
+    "Product Description Details": "جزئیات توضیحات محصول",
+    "Eg: Great Aesthetics, Usage ideal for office, education sectors, designing, basic gaming etc": "به عنوان مثال: زیبایی شناسی عالی، استفاده ایده آل برای دفتر، بخش های آموزشی، طراحی، بازی های اساسی و غیره",
+    "Store Name": "نام فروشگاه",
+    "Eg: Flipkart": "به عنوان مثال: فلیپ کارت",
+    "Eg: Dell WM118 Wireless Mouse": "به عنوان مثال: ماوس بی سیم Dell WM118",
+    "Provider Name": "نام ارائه دهنده",
+    "Eg: Ola Cabs": "به عنوان مثال: Ola Cabs",
+    "Service Name": "نام سرویس",
+    "Eg: Rental Car": "به عنوان مثال: ماشین اجاره ای",
+    "Business Model": "مدل تجاری",
+    "Eg: Ecommerce or electronic commerce is the trading of goods and services on the internet.": "به عنوان مثال: تجارت الکترونیک یا تجارت الکترونیکی تجارت کالا و خدمات در اینترنت است.",
+    "Keywords of your business": "کلمات کلیدی کسب و کار شما",
+    "Eg: ecommerce, online, eshop": "به عنوان مثال: تجارت الکترونیک، آنلاین، فروشگاه اینترنتی",
+    "A tool that represents the most important or relevant information in the original content.": "ابزاری که مهمترین یا مرتبط ترین اطلاعات را در محتوای اصلی نشان می دهد.",
+    "What would you like to summarize?": "چه چیزی را می خواهید خلاصه کنید؟",
+    "Eg: Your content": "به عنوان مثال: محتوای شما",
+    "Twitter CEO Elon Musk apologises for annoying ads.": "ایلان ماسک، مدیر عامل توییتر به دلیل تبلیغات مزاحم عذرخواهی کرد.",
+    "Website Name": "نام وب سایت",
+    "Eg: CAPSI": "به عنوان مثال: CAPSI",
+    "Keywords of your website": "کلمات کلیدی وب سایت شما",
+    "Eg: service, application, brands": "به عنوان مثال: خدمات، برنامه، مارک ها",
+    "Meta Name": "نام متا",
+    "Eg: Get the tools you need to stay organized and make decisions faster.": "به عنوان مثال: ابزارهای مورد نیاز خود را برای سازماندهی و تصمیم گیری سریعتر تهیه کنید.",
+    "Service / Product Name": "خدمات / نام محصول",
+    "Description of your service / product": "شرح خدمات / محصول شما",
+    "Eg: CAPSI Newsletter to keep you updated with new research": "به عنوان مثال: خبرنامه CAPSI برای به روز نگه داشتن شما با تحقیقات جدید",
+    "What would you like to expand on?": "چه چیزی را دوست دارید گسترش دهید؟",
+    "Eg: On the first day of her trip, Diane visited the Golden Gate": "به عنوان مثال: در روز اول سفر، دایان از دروازه طلایی بازدید کرد",
+    "Describe your videos with your information that will reach its viewers.": "ویدیوهای خود را با اطلاعاتی که به دست بینندگانش می رسد توصیف کنید.",
+    "What is your video about?": "ویدئوی شما در مورد چیست؟",
+    "Eg: How To Start YouTube Channel | English": "به عنوان مثال: چگونه کانال YouTube را راه اندازی کنیم | ",
+    "Eg: Travel": "به عنوان مثال: سفر",
+    "Channel Name": "نام کانال",
+    "Eg: Mr. India": "به عنوان مثال: آقای هند",
+    "Video Title": "عنوان ویدئو",
+    "Eg: 'Discover India's Top Tourist Destinations - An Unforgettable Journey!'": "به عنوان مثال: \"کشف مقاصد گردشگری برتر هند - یک سفر فراموش نشدنی!\"",
+    "Tell me more about the your video": "در مورد ویدیوی خود بیشتر به من بگویید",
+    "Eg: How to create youtube shorts?": "به عنوان مثال: چگونه شورت یوتیوب بسازیم؟",
+    "Write about your video.": "در مورد ویدیوی خود بنویسید",
+    "Eg: About tourist places in India": "به عنوان مثال: درباره مکان های توریستی در هند",
+    "Ultimate Solution for Content Creation!": "راه حل نهایی برای تولید محتوا!",
+    "AI Tools": "ابزارهای هوش مصنوعی",
+    "Generate Engaging and High-Quality Content in Minutes with the Help of AI.": "با کمک هوش مصنوعی در چند دقیقه محتوای جذاب و با کیفیت بالا تولید کنید.",
+    "More features": "ویژگی های بیشتر",
+    "#1 Fastest growing content creator": "",
+    "Automated Content Generation": "تولید خودکار محتوا",
+    "AI content creation uses machine learning algorithms to automatically generate high-quality, engaging content across various mediums, including articles, blogs, social media posts, and more.": "ایجاد محتوای هوش مصنوعی از الگوریتم‌های یادگیری ماشین برای تولید خودکار محتوای با کیفیت بالا و جذاب در رسانه‌های مختلف، از جمله مقالات، وبلاگ‌ها، پست‌های رسانه‌های اجتماعی و موارد دیگر استفاده می‌کند.",
+    "Customizable Tone and Style": "تن و سبک قابل تنظیم",
+    "The content generated by AI can be tailored to match the tone and style of your brand, making it easier to maintain consistency across all of your content.": "محتوای تولید شده توسط هوش مصنوعی را می توان برای مطابقت با لحن و سبک نام تجاری شما تنظیم کرد و حفظ ثبات در تمام محتوای شما را آسان تر می کند.",
+    "SEO Optimization": "بهینه سازی سئو",
+    "AI content creation can optimize content for search engines, improving the visibility and ranking of your content in search results.": "ایجاد محتوای هوش مصنوعی می تواند محتوا را برای موتورهای جستجو بهینه کند و دید و رتبه بندی محتوای شما را در نتایج جستجو بهبود بخشد.",
+    "Topic Research": "تحقیق موضوعی",
+    "AI content creation can generate ideas and topic suggestions for content creation, based on user input and analysis of current trends and popular search terms.": "ایجاد محتوای هوش مصنوعی می تواند ایده ها و پیشنهادات موضوعی را برای ایجاد محتوا بر اساس ورودی کاربر و تجزیه و تحلیل روندهای فعلی و عبارات جستجوی محبوب ایجاد کند.",
+    "Content Analysis": "تحلیل محتوا",
+    "AI content creation can analyze the performance and engagement of content, using data and metrics to improve future content creation.": "ایجاد محتوای هوش مصنوعی می تواند عملکرد و تعامل محتوا را با استفاده از داده ها و معیارها برای بهبود تولید محتوا در آینده تجزیه و تحلیل کند.",
+    "Collaboration and Workflow Management": "همکاری و مدیریت گردش کار",
+    "AI content creation can collaborate with team members, manage workflows, and track progress using AI-powered project management tools.": "ایجاد محتوای هوش مصنوعی می تواند با اعضای تیم همکاری کند، گردش کار را مدیریت کند و پیشرفت را با استفاده از ابزارهای مدیریت پروژه مبتنی بر هوش مصنوعی پیگیری کند.",
+    "Many useful features": "بسیاری از ویژگی های مفید",
+    "With AI Content Creation, you can generate high-quality, engaging content across various mediums, including articles, blogs, social media posts, and more, with ease.": "با ایجاد محتوای هوش مصنوعی، می‌توانید محتوای جذاب و با کیفیت بالا را در رسانه‌های مختلف، از جمله مقاله‌ها، وبلاگ‌ها، پست‌های رسانه‌های اجتماعی و موارد دیگر به راحتی تولید کنید.",
+    "Register": "ثبت نام",
+    "Tools": "ابزار",
+    "Transform Your Content Creation with AI": "ایجاد محتوای خود را با هوش مصنوعی متحول کنید",
+    "Create high-quality content faster and easier than ever before using the power of artificial intelligence technology.": "با استفاده از قدرت فناوری هوش مصنوعی، سریع‌تر و آسان‌تر از همیشه محتوای با کیفیت بالا ایجاد کنید.",
+    "Revolutionizing Content Creation with AI-Powered Tools": "ایجاد محتوا با ابزارهای مجهز به هوش مصنوعی را متحول کرد",
+    "At AI Tools, we believe that creating high-quality content should be easy and accessible for everyone. That's why we've developed an AI-powered content creation tool that automates the content creation process and generates engaging content across various mediums, including articles, blogs, social media posts, and more.": "در AI Tools، ما معتقدیم که ایجاد محتوای با کیفیت بالا باید برای همه آسان و در دسترس باشد. ",
+    "Our team consists of experts in machine learning, natural language processing, and content creation who work tirelessly to ensure that our product is user-friendly, effective, and reliable. We're committed to using AI technology to make content creation more efficient and effective for our users.": "تیم ما متشکل از کارشناسانی در زمینه یادگیری ماشینی، پردازش زبان طبیعی، و ایجاد محتوا است که به طور خستگی ناپذیر تلاش می کنند تا اطمینان حاصل کنند که محصول ما کاربر پسند، موثر و قابل اعتماد است. ",
+    "With AI Tools Content Creation, you can customize the tone and style of your content to match your brand, optimize your content for search engines, and generate topic suggestions based on current trends and popular search terms. Our machine learning algorithms analyze your input and use natural language processing to generate content that matches the tone and style of your brand.": "با ایجاد محتوای ابزارهای هوش مصنوعی، می‌توانید لحن و سبک محتوای خود را مطابق با نام تجاری خود سفارشی کنید، محتوای خود را برای موتورهای جستجو بهینه کنید، و پیشنهادات موضوعی را بر اساس روندهای فعلی و عبارات جستجوی محبوب ایجاد کنید. ",
+    "We're also dedicated to providing exceptional customer service and support to help our clients achieve their content creation goals. Our team is always available to answer any questions, provide guidance, and troubleshoot any issues that may arise.": "ما همچنین وقف ارائه خدمات و پشتیبانی استثنایی به مشتریان برای کمک به مشتریان خود در دستیابی به اهداف تولید محتوا هستیم. ",
+    "In addition, AI Tools Content Creation is designed to streamline collaboration and workflow management. You can collaborate with team members, assign tasks, and track progress using AI-powered project management tools, saving you time and effort in the content creation process.": "علاوه بر این، AI Tools Content Creation برای ساده کردن همکاری و مدیریت گردش کار طراحی شده است. ",
+    "At AI Tools, we're passionate about using AI technology to make content creation more accessible and efficient for everyone. Our product is constantly evolving and improving to meet the needs of our users. We're excited to continue innovating in the content creation space and helping our users create exceptional content with ease.": "در AI Tools، ما مشتاق استفاده از فناوری هوش مصنوعی هستیم تا تولید محتوا را برای همه در دسترس‌تر و کارآمدتر کنیم. ",
+    "We understand that creating content can be time-consuming and challenging, which is why we've designed our tool to be user-friendly, effective, and reliable. Whether you're a seasoned content creator or just getting started, our AI-powered content creation tool can help you streamline the content creation process and produce exceptional content that resonates with your audience.": "ما می دانیم که ایجاد محتوا می تواند زمان بر و چالش برانگیز باشد، به همین دلیل است که ابزار خود را طوری طراحی کرده ایم که کاربر پسند، موثر و قابل اعتماد باشد. ",
+    "Flexible pricing plan for your startup": "برنامه قیمت گذاری انعطاف پذیر برای استارتاپ شما",
+    "Pricing that scales with your business immediately.": "قیمت گذاری که با کسب و کار شما فوراً کاهش می یابد.",
+    "If you need unique features": "اگر به ویژگی های منحصر به فرد نیاز دارید",
+    "Speak with our team of experienced content creation experts to get advice and feedback on your content. Whether you're struggling to find the right words or need help optimizing your content for SEO, our experts are here to help.": "برای دریافت مشاوره و بازخورد در مورد محتوای خود، با تیم کارشناسان مجرب تولید محتوا ما صحبت کنید. ",
+    "Get in touch": "در تماس باشید",
+    "Contact us": "با ما تماس بگیرید",
+    "Email": "پست الکترونیک",
+    "Phone": "تلفن",
+    "AI Tools is the only saas business platform that lets you run your business on one platform, seamlessly across all digital channels.": "AI Tools تنها پلتفرم تجاری saas است که به شما امکان می دهد کسب و کار خود را بر روی یک پلتفرم، به طور یکپارچه در تمام کانال های دیجیتال اجرا کنید.",
+    "Schedule More Answers with Our AI Content Creation Experts.": "پاسخ‌های بیشتر را با کارشناسان تولید محتوای هوش مصنوعی ما برنامه‌ریزی کنید.",
+    "At AI Tools Content Creation, we are committed to protecting your privacy and safeguarding your personal information. This Privacy Policy outlines how we collect, use, and protect your information when you use our AI-powered content creation tool.": "در AI Tools Content Creation، ما متعهد به محافظت از حریم خصوصی شما و محافظت از اطلاعات شخصی شما هستیم. ",
+    "Collection of Information": "مجموعه اطلاعات",
+    "We collect information that you provide to us when you register for our services or use our content creation tool. This information may include your name, email address, company name, and other contact information. We may also collect information about your use of our tool, including your browsing history, search terms, and other usage data.": "ما اطلاعاتی را که هنگام ثبت نام برای خدمات ما یا استفاده از ابزار تولید محتوای ما در اختیار ما قرار می دهید، جمع آوری می کنیم. ",
+    "Use of Information": "استفاده از اطلاعات",
+    "We use your information to provide you with our content creation services and to improve our product. We may also use your information to send you marketing communications and other updates about our product, but you can opt-out of these communications at any time.": "ما از اطلاعات شما برای ارائه خدمات تولید محتوای خود و بهبود محصول خود استفاده می کنیم. ",
+    "We do not sell or rent your personal information to third parties. However, we may share your information with trusted third-party service providers who help us provide our services, such as payment processors, analytics providers, and customer support providers. We require these service providers to safeguard your personal information and only use it for the purposes for which it was provided.": "ما اطلاعات شخصی شما را به اشخاص ثالث نمی فروشیم یا اجاره نمی دهیم. ",
+    "Security": "امنیت",
+    "We take the security of your personal information seriously and have implemented measures to protect it from unauthorized access, use, or disclosure. We use industry-standard encryption technology to protect your information during transmission, and we store your information in secure data centers with restricted access.": "ما امنیت اطلاعات شخصی شما را جدی می‌گیریم و اقداماتی را برای محافظت از آن در برابر دسترسی، استفاده یا افشای غیرمجاز انجام داده‌ایم. ",
+    "However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee the absolute security of your information.": "با این حال، هیچ روشی برای انتقال از طریق اینترنت یا ذخیره‌سازی الکترونیکی کاملاً ایمن نیست و ما نمی‌توانیم امنیت مطلق اطلاعات شما را تضمین کنیم.",
+    "Cookies": "بیسکویت ها",
+    "We may use cookies and similar technologies to collect information about your use of our tool and improve our product. You can control the use of cookies through your browser settings, but disabling cookies may limit your ability to use some features of our tool.": "ممکن است از کوکی‌ها و فناوری‌های مشابه برای جمع‌آوری اطلاعات درباره استفاده شما از ابزارمان و بهبود محصول خود استفاده کنیم. ",
+    "Changes to this Policy": "تغییرات در این خط مشی",
+    "We may update this Privacy Policy from time to time to reflect changes in our practices or the law. We encourage you to review this Policy periodically to stay informed about how we collect, use, and protect your personal information.": "ممکن است هر از چند گاهی این سیاست حفظ حریم خصوصی را به‌روزرسانی کنیم تا تغییراتی را در رویه‌ها یا قوانینمان منعکس کنیم. ",
+    "If you have any questions or concerns about this Privacy Policy or our practices, please contact us at support@aitools.com.": "اگر در مورد این سیاست حفظ حریم خصوصی یا اقدامات ما سؤال یا نگرانی دارید، لطفاً با ما در support@aitools.com تماس بگیرید.",
+    "At AI Tools Content Creation, we want our customers to be completely satisfied with our AI-powered content creation tool. If you are not satisfied with our product for any reason, you may be eligible for a refund.": "در AI Tools Content Creation، ما می خواهیم مشتریانمان از ابزار ایجاد محتوای مبتنی بر هوش مصنوعی ما کاملاً راضی باشند. ",
+    "Refund Eligibility": "واجد شرایط بودن بازپرداخت",
+    "To be eligible for a refund, you must meet the following conditions:": "برای واجد شرایط بودن برای بازپرداخت، باید شرایط زیر را داشته باشید:",
+    "You have purchased a subscription to our content creation tool within the past 30 days": "شما در 30 روز گذشته اشتراکی برای ابزار ایجاد محتوای ما خریداری کرده اید",
+    "You have used our tool and can demonstrate that it did not meet your expectations": "شما از ابزار ما استفاده کرده اید و می توانید نشان دهید که انتظارات شما را برآورده نکرده است",
+    "You have contacted our customer support team to try to resolve the issue": "شما با تیم پشتیبانی مشتری ما تماس گرفته اید تا مشکل را حل کنید",
+    "Refund Process": "فرآیند بازپرداخت",
+    "To request a refund, please contact our customer support team at support@aitools.com. We will review your request and may ask for additional information to help us understand the issue. If we determine that you are eligible for a refund, we will process it within 7 business days.": "برای درخواست بازپرداخت، لطفاً با تیم پشتیبانی مشتری ما در support@aitools.com تماس بگیرید. ",
+    "Refund Amount": "مقدار بازپرداخت",
+    "The amount of your refund will depend on the terms of your subscription and the length of time you have used our tool. We may deduct a pro-rated amount based on the amount of time you have used our tool or any discounts or promotions you received at the time of purchase.": "مقدار بازپرداخت شما به شرایط اشتراک و مدت زمانی که از ابزار ما استفاده کرده اید بستگی دارد. ",
+    "Exclusions": "محرومیت ها",
+    "We reserve the right to deny refund requests in certain circumstances, including but not limited to:": "ما این حق را برای خود محفوظ می داریم که در شرایط خاص، درخواست های بازپرداخت را رد کنیم، از جمله:",
+    "Fraudulent or abusive behavior": "رفتار متقلبانه یا توهین آمیز",
+    "Violation of our Terms of Service": "نقض شرایط خدمات ما",
+    "Technical issues outside of our control, such as internet connectivity or device issues": "مشکلات فنی خارج از کنترل ما، مانند اتصال به اینترنت یا مشکلات دستگاه",
+    "We may update this Refund Policy from time to time to reflect changes in our practices or the law. We encourage you to review this Policy periodically to stay informed about our refund process.": "ممکن است هر از چند گاهی این خط‌مشی بازپرداخت را به‌روزرسانی کنیم تا تغییرات در رویه‌ها یا قوانینمان را منعکس کنیم. ",
+    "If you have any questions or concerns about this Refund Policy or our practices, please contact us at support@aitools.com.": "اگر سؤال یا نگرانی در مورد این خط مشی بازپرداخت یا شیوه های ما دارید، لطفاً با ما در support@aitools.com تماس بگیرید.",
+    "Welcome to AI Tools Content Creation. By using our AI-powered content creation tool, you agree to the following terms and conditions. Please read them carefully.": "به ایجاد محتوای ابزارهای هوش مصنوعی خوش آمدید. ",
+    "Use of our Tool": "استفاده از ابزار ما",
+    "Our tool is designed to assist you in creating content for your personal or commercial use. You may not use our tool for any illegal or unauthorized purpose, including but not limited to copyright infringement or plagiarism.": "ابزار ما برای کمک به شما در ایجاد محتوا برای استفاده شخصی یا تجاری شما طراحی شده است. ",
+    "Account Registration": "ثبت حساب",
+    "To use our tool, you must create an account and provide accurate and complete information about yourself. You are responsible for maintaining the security of your account and password, and for any activity that occurs under your account.": "برای استفاده از ابزار ما، باید یک حساب کاربری ایجاد کنید و اطلاعات دقیق و کاملی در مورد خود ارائه دهید. ",
+    "Intellectual Property": "مالکیت معنوی",
+    "Our tool and its content, including but not limited to text, graphics, logos, and software, are the property of AI Tools Content Creation and are protected by copyright, trademark, and other intellectual property laws. You may not use our content without our express written permission.": "ابزار ما و محتوای آن، شامل اما نه محدود به متن، گرافیک، آرم و نرم‌افزار، متعلق به AI Tools Content Creation است و توسط حق چاپ، علائم تجاری و سایر قوانین مالکیت معنوی محافظت می‌شود. ",
+    "Privacy": "حریم خصوصی",
+    "We respect your privacy and are committed to protecting your personal information. Please see our Privacy Policy for more information.": "ما به حریم خصوصی شما احترام می گذاریم و متعهد به حفاظت از اطلاعات شخصی شما هستیم. ",
+    "Disclaimer of Warranties": "سلب مسئولیت از گارانتی",
+    "Our tool is provided 'as is' and without warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not guarantee that our tool will be error-free, uninterrupted, or secure.": "ابزار ما «همان‌طور که هست» و بدون ضمانت‌نامه‌هایی از هر نوع، صریح یا ضمنی، شامل اما نه محدود به ضمانت‌های تجاری بودن، مناسب بودن برای یک هدف خاص، و عدم نقض ارائه می‌شود. ",
+    "Limitation of Liability": "محدودیت مسئولیت",
+    "In no event shall AI Tools Content Creation be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in connection with your use of our tool, whether based on warranty, contract, tort, or any other legal theory.": "به‌هیچ‌وجه، ایجاد محتوای AI Tools در قبال آسیب‌های مستقیم، غیرمستقیم، اتفاقی، ویژه یا تبعی ناشی از یا در ارتباط با استفاده شما از ابزار ما، چه بر اساس ضمانت، قرارداد، تخلف، یا هر نظریه حقوقی دیگر، مسئول نیست. ",
+    "Terms and Conditions - Create High-Quality Content in Minutes": "شرایط و ضوابط - محتوای با کیفیت بالا در چند دقیقه ایجاد کنید",
+    "You agree to indemnify and hold AI Tools Content Creation and its affiliates, officers, agents, and employees harmless from any claims, damages, or expenses arising out of or in connection with your use of our tool or your violation of these terms and conditions.": "شما موافقت می‌کنید که ایجاد محتوای ابزارهای هوش مصنوعی و وابسته‌ها، افسران، نمایندگان و کارمندان آن را از هرگونه ادعا، خسارت یا هزینه‌های ناشی از یا در ارتباط با استفاده شما از ابزار ما یا نقض این شرایط و ضوابط بی‌ضرر نگه دارید.",
+    "Changes to these Terms and Conditions": "تغییرات در این شرایط و ضوابط",
+    "We may update these terms and conditions from time to time to reflect changes in our practices or the law. We encourage you to review these terms and conditions periodically to stay informed about our policies.": "ممکن است هر از چند گاهی این شرایط و ضوابط را به‌روزرسانی کنیم تا تغییراتی را در رویه‌ها یا قوانینمان منعکس کنیم. ",
+    "Governing Law and Jurisdiction": "قانون حاکم و صلاحیت قضایی",
+    "These terms and conditions shall be governed by and construed in accordance with the laws of [insert governing law], and any disputes arising out of or in connection with these terms and conditions shall be resolved in the courts of [insert jurisdiction].": "این شرایط و ضوابط بر اساس قوانین [درج قانون حاکم] کنترل و تفسیر می شود، و هر گونه اختلاف ناشی از یا در ارتباط با این شرایط و ضوابط باید در دادگاه های [درج حوزه قضایی] حل و فصل شود.",
+    "If you have any questions or concerns about these terms and conditions or our practices, please contact us at support@aitools.com.": "اگر در مورد این شرایط و ضوابط یا شیوه های ما سؤال یا نگرانی دارید، لطفاً با ما در support@aitools.com تماس بگیرید.",
+    "Blog Headline": "عنوان وبلاگ",
+    "Maintaining a blog is a proven way to drive traffic to website through SEO.": "حفظ وبلاگ یک راه اثبات شده برای هدایت ترافیک به وب سایت از طریق سئو است.",
+    "Blog Description": "توضیحات وبلاگ",
+    "Generate description ideas for your articles and blog posts.": "ایده های توصیفی برای مقالات و پست های وبلاگ خود ایجاد کنید.",
+    "Try": "تلاش كردن",
+    "Blog Story Ideas": "ایده های داستان وبلاگ",
+    "A great tool to create blog stories that people love the most.": "ابزاری عالی برای ایجاد داستان های وبلاگی که مردم بیشتر از همه دوست دارند.",
+    "Article Content": "محتوای مقاله",
+    "Create appealing and awe-inspiring content for the viewers.": "محتوای جذاب و الهام بخش برای بینندگان ایجاد کنید.",
+    "Paragraph": "پاراگراف",
+    "You can use any one-word keywords to create an engaging paragraph.": "می توانید از هر کلمه کلیدی تک کلمه ای برای ایجاد یک پاراگراف جذاب استفاده کنید.",
+    "Summarization": "خلاصه سازی",
+    "Tool that represents most important information from original content.": "ابزاری که مهمترین اطلاعات را از محتوای اصلی نشان می دهد.",
+    "Product Name": "نام محصول",
+    "Generate short, catchy names with a state of the art language model": "نام های کوتاه و جذاب با مدل زبانی پیشرفته تولید کنید",
+    "Product Description": "توضیحات محصول",
+    "That enables you to create beautiful & effective product descriptions that sell.": "که شما را قادر می سازد زیبا خلق کنید",
+    "Startup Name": "نام راه اندازی",
+    "Generate brandable business / startup name using artificial intelligence": "با استفاده از هوش مصنوعی نام کسب و کار/استارت آپ قابل برندسازی ایجاد کنید",
+    "Service Review": "بررسی خدمات",
+    "Write Service Reviews based on the provider name and service name": "نظرات خدمات را بر اساس نام ارائه دهنده و نام سرویس بنویسید",
+    "YouTube Video Titles": "عناوین ویدیوهای یوتیوب",
+    "Write YouTube video titles that will attract viewers.": "عناوین ویدیوی یوتیوب را بنویسید که بینندگان را جذب کند.",
+    "YouTube Video Tags": "برچسب های ویدیوی یوتیوب",
+    "Tell us about the amazing ones in the video": "در مورد موارد شگفت انگیز در ویدیو به ما بگویید",
+    "YouTube Video Outline": "طرح کلی ویدیوی YouTube",
+    "Generate youtube video outline from a video title": "طرح کلی ویدیوی یوتیوب را از عنوان یک ویدیو ایجاد کنید",
+    "YouTube Video Intro": "معرفی ویدیوی YouTube",
+    "Write interesting intro script for your youtube video": "اسکریپت مقدماتی جالبی برای ویدیوی یوتیوب خود بنویسید",
+    "YouTube Video Ideas": "ایده های ویدیویی یوتیوب",
+    "Create your video content with the help of AI": "محتوای ویدیویی خود را با کمک هوش مصنوعی ایجاد کنید",
+    "YouTube Short Script": "اسکریپت کوتاه یوتیوب",
+    "Create the perfect script for your next viral Youtube Shorts.": "اسکریپت کاملی را برای شورت های یوتیوب ویروسی بعدی خود ایجاد کنید.",
+    "Write for me": "برای من بنویس",
+    "Continue and complete my unfinished paragraph.": "ادامه دهید و پاراگراف ناتمام من را کامل کنید.",
+    "Website Meta Description": "توضیحات متای وب سایت",
+    "Write SEO friendly meta description for your website.": "توضیحات متا سئو دوستانه برای وب سایت خود بنویسید.",
+    "Website Meta Keywords": "متا کلمات کلیدی وب سایت",
+    "Write SEO friendly meta keywords for your website.": "کلمات کلیدی متا سئو دوستانه برای وب سایت خود بنویسید.",
+    "Website Meta Title": "عنوان متای وب سایت",
+    "Write SEO friendly meta title for your website.": "عنوان متا سئو دوستانه برای وب سایت خود بنویسید.",
+    "Event Promotion Email": "ایمیل تبلیغاتی رویداد",
+    "Write email to promote your event": "برای تبلیغ رویداد خود ایمیل بنویسید",
+    "Twitter Writer": "توییتر نویسنده",
+    "Write a tweet on the latest news": "در مورد آخرین اخبار یک توییت بنویسید",
+    "AI Presentation Content": "محتوای ارائه هوش مصنوعی",
+    "Write an engaging presentation content": "یک محتوای ارائه جذاب بنویسید",
+    "Ask a Question": "یک سوال بپرسید",
+    "Get answer to all your questions": "پاسخ تمام سوالات خود را دریافت کنید",
+    "Landing Page": "صفحه فرود",
+    "Write hero text & description": "متن قهرمان بنویسید",
+    "Google Ads": "تبلیغات گوگل",
+    "Generate Google Ads descriptions in within seconds": "در عرض چند ثانیه توضیحات Google Ads را ایجاد کنید",
+    "AIDA framework": "چارچوب AIDA",
+    "The best-known marketing model for tracking the customer journey": "شناخته شده ترین مدل بازاریابی برای ردیابی سفر مشتری",
+    "Product Review": "بررسی محصول",
+    "Greatest approach to guarantee that you get and promote review of the highest caliber.": "بهترین رویکرد برای تضمین دریافت و ترویج بررسی بالاترین کالیبر.",
+    "Welcome Email": "ایمیل خوش آمدید",
+    "Write personalized email to welcome the customer for joining your service / product.": "برای خوش آمدگویی به مشتری برای پیوستن به خدمات/محصول شما، ایمیل شخصی بنویسید.",
+    "YouTube Video Description": "توضیحات ویدیوی یوتیوب",
+    "Silver": "نقره",
+    "Unlock Advanced AI Content Creation Tools with our Silver Plan.": "ابزارهای پیشرفته ایجاد محتوای هوش مصنوعی را با طرح نقره ای ما باز کنید.",
+    "Gold": "طلا",
+    "Get the Ultimate AI Content Creation Experience with our Gold Plan.": "با طرح طلایی ما، تجربه نهایی ایجاد محتوای هوش مصنوعی را بدست آورید.",
+    "Platinum": "پلاتین",
+    "Access Exclusive AI Content Creation Tools and Features with our Platinum Plan.": "با طرح پلاتینیوم ما به ابزارها و ویژگی های منحصر به فرد ایجاد محتوای هوش مصنوعی دسترسی پیدا کنید.",
+    "Recent 10 AI Images": "10 تصویر اخیر هوش مصنوعی",
+    "Generated on": "تولید شده در",
+    "Recent 10 AI Contents": "10 محتوای اخیر AI",
+    "Generated AI Images": "تصاویر هوش مصنوعی تولید شده",
+    "Generated AI Contents": "محتویات هوش مصنوعی تولید شده",
+    "Used AI Words": "از کلمات هوش مصنوعی استفاده کرد",
+    "Used AI Images": "تصاویر هوش مصنوعی استفاده شده",
+    "Available AI Images": "تصاویر هوش مصنوعی موجود",
+    "Available AI Words": "کلمات هوش مصنوعی موجود",
+    "AI Contents": "محتویات هوش مصنوعی",
+    "Words": "کلمات",
+    "Images": "تصاویر",
+    "Today AI Contents": "مطالب امروزی هوش مصنوعی",
+    "Today AI Images": "امروز تصاویر هوش مصنوعی",
+    "Generate AI Content": "محتوای هوش مصنوعی تولید کنید",
+    "Generate AI Image": "ایجاد تصویر هوش مصنوعی",
+    "New Document": "سند جدید",
+    "The best-known marketing model for tracing the customer journey": "شناخته شده ترین مدل بازاریابی برای ردیابی سفر مشتری",
+    "Custom Prompt": "درخواست سفارشی",
+    "Ask AI about anything that attracts others content": "از هوش مصنوعی در مورد هر چیزی که محتوای دیگران را جذب می کند بپرسید",
+    "Custom Prompt Content Creator": "ایجاد کننده محتوای درخواستی سفارشی",
+    "Exports": "صادرات",
+    "Content Creation Failed": "ایجاد محتوا ناموفق بود",
+    "Image Creation Failed": "ایجاد تصویر ناموفق بود",
+    "For more details please contact administrator.": "برای جزئیات بیشتر لطفا با مدیر تماس بگیرید.",
+    "Maximum Words Length": "حداکثر طول کلمات",
+    "Maximum Words Length (Eg: 1200)": "حداکثر طول کلمات (به عنوان مثال: 1200)",
+    "Maximum Images Options": "حداکثر گزینه های تصاویر",
+    "Paystack Settings": "تنظیمات Paystack",
+    "Public Key": "کلید عمومی",
+    "Merchant Email": "ایمیل تاجر",
+    "Website": "سایت اینترنتی",
+    "Social Media": "رسانه های اجتماعی",
+    "Video": "ویدئو",
+    "Others": "دیگران",
+    "Blog": "وبلاگ",
+    "All": "همه",
+    "Review": "مرور",
+    "Product / Startup": "محصول / راه اندازی",
+    "Payment methods": "روش های پرداخت",
+    "Blog Outline": "طرح کلی وبلاگ",
+    "Generate blog outline from a given topic": "طرح کلی وبلاگ را از یک موضوع مشخص ایجاد کنید",
+    "Blog Topic": "موضوع وبلاگ",
+    "Eg: How to use AI for blog writing?": "به عنوان مثال: چگونه از هوش مصنوعی برای نوشتن وبلاگ استفاده کنیم؟",
+    "Show Website Frontend?": "نمای وب سایت نمایش داده شود؟",
+    "Yes": "آره",
+    "No": "خیر",
+    "If there is no website frontend, the website will automatically go to the login page.": "اگر هیچ وب سایتی وجود نداشته باشد، وب سایت به طور خودکار به صفحه ورود می رود.",
+    "Maximum image limit is exceeded, Please upgrade your plan.": "از حداکثر محدودیت تصویر فراتر رفته است، لطفا طرح خود را ارتقا دهید.",
+    "Wrong image ID.": "شناسه تصویر اشتباه است.",
+    "Wrong content ID.": "شناسه محتوای اشتباه",
+    "Styles": "سبک ها",
+    "Photography": "عکاسی",
+    "Photo": "عکس",
+    "Vibrant": "پر جنب و جوش",
+    "Minimalist": "مینیمالیست",
+    "Neon": "نئون",
+    "Filmic": "فیلمی",
+    "Realistic": "واقع بین",
+    "Modern": "نوین",
+    "Digital art": "هنر دیجیتال",
+    "Colorful": "رنگارنگ",
+    "3D": "سه بعدی",
+    "Retrowave": "Retrowave",
+    "Psychedelic": "روانگردان",
+    "3D Model": "مدل سه بعدی",
+    "Concept art": "هنر مفهومی",
+    "Gradient": "شیب",
+    "Retro Anime": "انیمه یکپارچهسازی با سیستمعامل",
+    "Dreamlike": "رویایی",
+    "Anime": "انیمه",
+    "Sticker": "استیکر",
+    "Vector": "بردار",
+    "Cartoon": "کارتون",
+    "Fine art": "هنرهای زیبا",
+    "Watercolor": "آبرنگ",
+    "Color pencil": "مداد رنگی",
+    "Stained Glass": "شیشه لک شده",
+    "Ink Print": "چاپ جوهر",
+    "Line Art": "هنر خط",
+    "Emoji": "ایموجی",
+    "Avatar": "آواتار",
+    "Repetitive": "تکراری",
+    "Creativity Level": "سطح خلاقیت",
+    "Deterministic": "قطعی",
+    "Original": "اصل",
+    "Creative": "خلاق",
+    "Imaginative": "تخیلی",
+    "Tone": "لحن",
+    "Informal": "دوستانه و غیر رسمی",
+    "Optimistic": "خوشبین",
+    "Pessimistic": "بدبین",
+    "Joyful": "شادی آور",
+    "Sad": "غمگین",
+    "Sincere": "مخلص - بی ریا - صمیمانه",
+    "Hypocritical": "ریاکار",
+    "Fearful": "ترسناک",
+    "Hopeful": "امیدوار",
+    "Happy": "خوشحال",
+    "Serious": "جدی",
+    "Generate by Website URL": "ایجاد توسط URL وب سایت",
+    "Generate mete title, meta description and keywords from a given website url.": "عنوان mete، توضیحات متا و کلمات کلیدی را از آدرس وب سایت داده شده ایجاد کنید.",
+    "Eg: http://domain.com": "به عنوان مثال: http://domain.com",
+    "Maximum speech to text limit is exceeded, Please upgrade your plan.": "از حداکثر محدودیت گفتار به متن فراتر رفته است، لطفاً طرح خود را ارتقا دهید.",
+    "Recently Generated Speech to Text": "گفتار به متن اخیراً تولید شده است",
+    "New Speech to text": "گفتار جدید به متن",
+    "Speech to Text": "گفتار به متن",
+    "Choose Audio / Video File": "فایل صوتی / تصویری را انتخاب کنید",
+    ".mp3, .mp4, .mpeg, .mpga, .m4a, .wav, .webm allowed. Max audio / video file size: ": "mp3، .mp4، .mpeg، .mpga، .m4a، .wav، .webm مجاز است.  ",
+    "MB": "MB",
+    "Describe what your audio / video is about": "توضیح دهید که صوتی / ویدیوی شما در مورد چیست",
+    "Input Text": "متن ورودی",
+    "AI Code": "کد هوش مصنوعی",
+    "AI Speech to Text": "هوش مصنوعی گفتار به متن",
+    "Which program do you need?": "به کدام برنامه نیاز دارید؟",
+    "Write a PHP program to 'Hello World'": "نوشتن یک برنامه PHP برای \"Hello World\"",
+    "Edit Code": "ویرایش کد",
+    "Templates & Categories": "قالب ها",
+    "Categories": "دسته بندی ها",
+    "Add Category": "اضافه کردن دسته",
+    "Category Details": "جزئیات دسته",
+    "Category Name": "نام دسته",
+    "New Category Created Successfully!": "دسته جدید با موفقیت ایجاد شد!",
+    "Update Category": "به روز رسانی دسته",
+    "Category Details Updated Successfully!": "جزئیات دسته با موفقیت به روز شد!",
+    "Category Status Updated Successfully!": "وضعیت دسته با موفقیت به روز شد!",
+    "Add Template": "اضافه کردن الگو",
+    "Category": "دسته بندی",
+    "Template Details": "جزئیات الگو",
+    "Template Name": "نام الگو",
+    "Icon": "آیکون",
+    "Use SVG Image from": "از تصویر SVG استفاده کنید",
+    "tabler-icons.io": "tabler-icons.io",
+    "Template Description": "توضیحات الگو",
+    "Choose Category": "دسته را انتخاب کنید",
+    "Prompt": "سریع",
+    "Field Title": "عنوان رشته",
+    "Template Fields": "فیلدهای الگو",
+    "Field Description": "شرح فیلد",
+    "Field Type": "نوع فیلد",
+    "Textarea": "Textarea",
+    "Update Template": "به روز رسانی قالب",
+    "Add New Field": "فیلد جدید اضافه کنید",
+    "Template Details Updated Successfully!": "جزئیات الگو با موفقیت به روز شد!",
+    "Template Status Updated Successfully!": "وضعیت الگو با موفقیت به روز شد!",
+    "Your plan is over. Choose your plan renewal or new package and use it.": "برنامه شما تمام شده است. ",
+    "Transaction Cloud Settings": "تنظیمات ابر تراکنش",
+    "API Login": "ورود به API",
+    "API Password": "رمز عبور API",
+    "Google Tag Manager Settings": "تنظیمات گوگل تگ منیجر",
+    "Google Tag ID": "شناسه تگ گوگل",
+    "Enable light mode": "حالت نور را فعال کنید",
+    "Enable dark mode": "حالت تاریک را فعال کنید",
+    "If you proceed, you will active/deactivate this category data.": "اگر ادامه دهید، داده های این دسته را فعال/غیرفعال می کنید.",
+    "If you proceed, you will active/deactivate this template data.": "اگر ادامه دهید، داده های این الگو را فعال/غیرفعال خواهید کرد."
+}
